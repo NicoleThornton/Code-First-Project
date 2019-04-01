@@ -8,22 +8,32 @@ html {
 	padding-left: 10px;
 	}
 
+li {
+	justify-content: space-around;
+	padding-right: 20px;
+}
+
+#stress {
+		display: inline-table;
+}
+
 #s {
 		background-image: url("bubble.jpg");
    	background-repeat: no-repeat;
 		background-position: right top;
     background-attachment: fixed;
-	   height:700px;
+	   height:600px;
      width: 100%;
 	   text-align: right;
 		 text-transform: uppercase;
 		 letter-spacing: 5px;
-		 text-indent: 50px;
+		 text-indent: 40px;
 		 line-height: 9.8;
-		 word-spacing: 15px;
-		 		 }
+		 word-spacing: 7px;
+		 		 		 }
 	h1{
-justify-content: center;
+padding-right; 70px;
+color: white;
 			}
 
 
@@ -51,9 +61,15 @@ body {
 
 #b {
 	height: 600px;
-	width: 50%;
 	margin: 20px;
   padding: 20px;
+	padding-right: 40px;
+}
+
+#budgetingimage {
+	height: 250px;
+	justify-content: center;
+	width: 100%
 }
 
 #c {
@@ -68,9 +84,18 @@ body {
 	width:100%;
 	margin: 20px;
   padding: 20px;
-	background-image: url("modernmansion.jpg");
+	background-image: url("./modernmansion.jpg");
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+	background-size: 100%;
+}
+
+#k {
+	width: 50%;
+	background-color: rgba(255, 255, 255, .6);
 }
 
 #white {
-	color: darksalmon;
+	color: maroon;
 }
