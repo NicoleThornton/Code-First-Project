@@ -85,25 +85,25 @@ body {
 
 
 #c {
-	height: 610px;
+	height: 495px;
 	width: 100%;
 	margin: 10px;
   padding: 10px;
 	background-image: url("./creditldn.png");
 	background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
-	background-size: 100%;
+  background-position: right;
+	background-size: 75%;
 }
 
 #cc {
 	width: 50%;
-	background-color: rgba(255, 255, 255, .5);
-	margin-left: 300px;
+	background-color: rgba(255, 255, 255, .8);
+	margin-left: 0px;
 }
 
 #cd {
-	color: black;
+	color: steelblue;
 }
 
 #p {
@@ -113,14 +113,15 @@ body {
   padding: 10px;
 	background-image: url("./modernmansion.jpg");
 	background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-	background-size: 100%;
+  background-attachment: local;
+  background-position: left;
+	background-size: 70%;
 }
 
 #k {
 	width: 50%;
-	background-color: rgba(255, 255, 255, .6);
+	background-color: rgba(255, 255, 255, .8);
+	margin-left: 700px;
 }
 
 #white {
