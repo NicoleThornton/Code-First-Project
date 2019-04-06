@@ -1,0 +1,28 @@
+body{
+  padding-top: 5rem;
+  min-height: 50vh;
+  width: 100vw;
+}
+.AboutPage {
+  padding: 3rem 1.5rem;
+  text-align:center;
+}
+#AboutPage{
+  background-color: pink;
+}
+.col{
+  background-color: pink;
+}
+.img-fluid {
+  max-width: 100%;
+  max-height: auto;
+  height: 500px;
+}
+.main{
+  background-color: pink
+}
+
+body{
+  min-height: 50vh;
+  width:100vw
+}
