@@ -15,26 +15,28 @@ li {
 }
 
 #stress {
-		display: inline-table;
+		display: list-item;
+		text-align: left;
+		list-style: none;
 }
 
 #s {
-		background-image: url("bubble.jpg");
+		background-image: url("chessone.jpg");
    	background-repeat: no-repeat;
 		background-position: right top;
-    background-attachment: fixed;
-	   height:600px;
+    background-attachment: local;
+	   height:620px;
      width: 100%;
 	   text-align: right;
 		 text-transform: uppercase;
 		 letter-spacing: 5px;
 		 text-indent: 40px;
-		 line-height: 9.8;
+		 line-height: 3.8;
 		 word-spacing: 7px;
 		 		 		 }
 	h1{
-padding-right: 70px;
-color: white;
+padding-left: 70px;
+color: black;
 			}
 
 
@@ -59,7 +61,6 @@ body {
   	color: #7D775C;
 	}
 
-
 #b {
 	height: 575px;
 	width: 100%;
@@ -68,14 +69,14 @@ body {
 	margin-right: 300px;
 	background-image: url("./budgetgrow.jpg");
 	background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: local;
   background-position: center;
-	background-size: 100%;
+	background-size: 75%;
 }
 
 #q {
-	width: 50%;
-	background-color: rgba(255, 255, 255, .3);
+	width: 35%;
+	background-color: rgba(255, 255, 255, .6);
 	margin-left: 650px;
 }
 
@@ -85,7 +86,7 @@ body {
 
 
 #c {
-	height: 495px;
+	height: 504px;
 	width: 100%;
 	margin: 10px;
   padding: 10px;
@@ -99,7 +100,7 @@ body {
 #cc {
 	width: 50%;
 	background-color: rgba(255, 255, 255, .8);
-	margin-left: 0px;
+	margin-left: -10px;
 }
 
 #cd {
