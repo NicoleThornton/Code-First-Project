@@ -5,6 +5,7 @@
 
 html {
 	margin-left: 20px;
+	margin-right: 20px;
 	padding-left: 10px;
 	}
 
@@ -32,7 +33,7 @@ li {
 		 word-spacing: 7px;
 		 		 		 }
 	h1{
-padding-right; 70px;
+padding-right: 70px;
 color: white;
 			}
 
@@ -40,7 +41,6 @@ color: white;
 body {
 	font: 1.4em georgia, sans-serif;
 	line-height: 1.88889;
-	color: grey;
   	margin: 10px;
 	padding: 10px;
 	}
@@ -59,31 +59,58 @@ body {
   	color: #7D775C;
 	}
 
+
 #b {
-	height: 600px;
-	margin: 20px;
-  padding: 20px;
-	padding-right: 40px;
+	height: 575px;
+	width: 100%;
+	margin: 10px;
+  padding: 10px;
+	margin-right: 300px;
+	background-image: url("./budgetgrow.jpg");
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+	background-size: 100%;
 }
 
-#budgetingimage {
-	height: 250px;
-	justify-content: center;
-	width: 100%
+#q {
+	width: 50%;
+	background-color: rgba(255, 255, 255, .3);
+	margin-left: 650px;
 }
+
+#qw {
+	color: olivedrab;
+}
+
 
 #c {
-	height: 700px;
+	height: 610px;
+	width: 100%;
+	margin: 10px;
+  padding: 10px;
+	background-image: url("./creditldn.png");
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+	background-size: 100%;
+}
+
+#cc {
 	width: 50%;
-	margin-left: 600px;
-  padding-left: : 600px;
+	background-color: rgba(255, 255, 255, .5);
+	margin-left: 300px;
+}
+
+#cd {
+	color: black;
 }
 
 #p {
 	height:675px;
 	width:100%;
-	margin: 20px;
-  padding: 20px;
+	margin: 10px;
+  padding: 10px;
 	background-image: url("./modernmansion.jpg");
 	background-repeat: no-repeat;
   background-attachment: fixed;
