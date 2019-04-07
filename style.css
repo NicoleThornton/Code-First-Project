@@ -1,0 +1,207 @@
+
+
+
+  head {
+	background-color:#f3f3f3;
+	margin-left: px;
+	padding-left: px;
+	}
+
+  * {
+  box-sizing:border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("/Images/managingfinance.jpg");
+}
+
+.container {
+  padding-top: 10px 5px 10px 30px;
+  text-align: left;
+}
+
+.secondcontainer {
+  padding-top: 10px 5px 10px 30px;
+  text-align: left;
+}
+
+.table {
+  grid-gap: 120px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.thirdrow:after {
+  content: "";
+  display: table;
+  clear: both
+
+}
+
+.column-66 {
+  float: left;
+  width: 66.6%;
+  padding: 160px 20px 20px 20px;
+  margin: 20px;
+}
+
+.large-font {
+  font-size: 48px;
+}
+
+.xlarge-font {
+  font-size: 64px
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+}
+
+.managingfinance {
+  width= 335px;
+  height= heightpx;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .column-66,
+  .column-33 {
+    width: 100%;
+    text-align: center;
+  }
+  img {
+    margin: auto;
+  }
+}
+
+my part
+
+Columns
+* {
+  box-sizing: border-box;
+
+}
+
+/* Create two equal columns that floats next to each other */
+.secondcolumn {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+   /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.secondrow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  .coreindex {
+	font-family:'Philosopher', sans-serif;
+  color: black;
+  text-align: left;
+  background-color:#f3f3f3;
+	}
+
+	.firstindex {
+	font-family:'Philosopher', sans-serif;
+	font-size: 22px;
+	font-style: oblique;
+	font-weight: 100px;
+	text-align: left;
+	text-indent: 30px;
+	text-decoration: underline;
+	color:#;
+	letter-spacing: 2px;
+
+	}
+
+  .float-right {
+
+  }
+
+	.secondindex {
+	color: #CC5071;
+	line-height:px;
+  font-family:'Segoe UI', sans-serif;
+  font-style: normal;
+  font-weight: 125px;
+  font-size: 1em;
+  letter-spacing: 0.1px;
+  text-align: left;
+  text-indent: 15px;
+	}
+
+	.thirdindex {
+  color:#68B4CC;
+  font-family:'Segoe UI', sans-serif;
+	}
+
+  .fourthindex {
+  font-family:'Segoe UI', sans-serif;
+	}
+
+  .fifthindex {
+  color: black;
+  font-family:'Philosopher', sans-serif;
+	}
+
+	.sixthindex {
+  color:#096D99;
+  font-family:'Segoe UI', sans-serif;
+	}
+
+	.seventhindex {
+  font-family:'Philosopher', sans-serif;
+  color:black;
+	}
+
+	.eighthindex {
+  font-family:'Segoe UI', sans-serif;
+  color:#FFAAA4;
+	}
+
+	.ninthindex {
+  font-family:'Philosopher', sans-serif;
+  color: black;
+	}
+
+	.tenthindex {
+  font-family:'Segoe UI', sans-serif;
+  color:#147999;
+	}
+
+	.eleventhindex {
+  font-family:'Segoe UI', sans-serif;
+  color:#147999;
+	}
+
+	.thirteenthindex {
+  font-family:'Segoe UI', sans-serif;
+	}
+
+	.fourteenthindex {
+  font-family:'Segoe UI', sans-serif;
+	}
+
+  .a {
+	text-decoration: none;
+	}
