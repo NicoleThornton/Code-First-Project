@@ -71,3 +71,8 @@ img{
 	padding-left: 1.5rem;
 	background-color: #f0f8ff;
 }
+
+.card-img-top{
+	position: center;
+	width: 310px;
+}
