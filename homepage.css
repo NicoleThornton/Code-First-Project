@@ -16,8 +16,10 @@ li {
 
 #stress {
 		display: list-item;
-		text-align: left;
+		text-align: center;
 		list-style: none;
+		padding-right: 1000px;
+		margin-right: 1000px;
 }
 
 #s {
@@ -27,17 +29,27 @@ li {
     background-attachment: local;
 	   height:620px;
      width: 100%;
-	   text-align: right;
+	   text-align: center;
 		 text-transform: uppercase;
 		 letter-spacing: 5px;
 		 text-indent: 40px;
-		 line-height: 3.8;
-		 word-spacing: 7px;
+		 line-height: 2.8;
+		 word-spacing: 6px;
 		 		 		 }
-	h1{
-padding-left: 70px;
+
+	#checkmate {
+padding-left: 650px;
 color: black;
+font-size: 5vw;
+width: 25%;
 			}
+
+#lowercase {
+	text-transform: lowercase;
+	padding-left: 675px;
+	color: black;
+	word-spacing: 5px;
+}
 
 
 body {
@@ -127,4 +139,11 @@ body {
 
 #white {
 	color: maroon;
+}
+
+#bottom {
+	list-style: none;
+	display: inline;
+	justify-content: center;
+	padding-left: 67px
 }
