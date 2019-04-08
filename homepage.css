@@ -8,8 +8,8 @@ html {
 	padding-left: 10px;
 	}
 
-#s {
-		background-image: url("bubble.jpg");
+ #one{
+		background-image: url("managingfinance.jpg");
    	background-repeat: no-repeat;
 		background-position: right top;
     background-attachment: fixed;
@@ -68,7 +68,7 @@ body {
 	width:100%;
 	margin: 20px;
   padding: 20px;
-	background-image: url("modernmansion.jpg");
+	background-image: url("debtadvisory.jpg");
 }
 
 #white {

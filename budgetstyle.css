@@ -1,0 +1,162 @@
+
+html {
+	margin-left: 20px;
+	padding-left: 10px;
+}
+
+body {
+	background-color: grey;
+  margin: auto;
+	padding-top: 2rem;
+	min-height: 100vh;
+	width: 100vw;
+}
+
+#different {
+
+}
+
+.img-responsive {
+	max-width: 100%;
+	height: auto;
+  display: block;
+}
+
+body{
+	padding-top: 2rem;
+  min-height: 100vh;
+  width: 100vw;
+  margin: auto;
+  background-color: #ffffff;
+}
+
+.title {
+	font-family: 'Philosopher', sans-serif;
+}
+
+.img-fluid {
+  max-width: 100%;
+  max-height: auto;
+  position: static;
+	height: 215px;
+}
+
+.lead {
+  text-align: center;
+}
+
+.budget-container {
+  background-image: url("countingcoins.jpg");
+  background-size: cover;
+  position: relative;
+  height: 200px;
+  top: 0;
+}
+
+.text {
+  background-color: white;
+  color: black;
+  font-size: 5vw;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: screen;
+}
+
+img{
+	float: left;
+	padding-right: 1.5rem;
+}
+
+.list {
+	padding-top: 7rem;
+	background-color: #ffffff;
+	background-size: cover;
+	position: center;
+	padding: 5rem;
+}
+
+.points {
+	padding: inherit;
+	background-color: #f0f8ff;
+}
+
+.new{
+	padding: 2rem;
+	padding-bottom: 1.5rem;
+	background-color: #f0f8ff;
+	float: right;
+}
+
+.envelope {
+	width:100px;
+	height:200px;
+	float: left;
+	padding-bottom: 1.5rem;
+	padding: 2rem;
+	background-color: #f0f8ff;
+}
+
+.binder {
+	float: right;
+	padding-bottom: 1.5rem;
+	padding: 2rem;
+	background-color: #f0f8ff;
+}
+
+.desk {
+	padding-bottom: 1.5rem;
+	padding-right: 2.5rem;
+	padding-left: 1.5rem;
+	background-color: #f0f8ff;
+}
+
+.debt {
+	margin: right;
+	padding-bottom: 1.5rem;
+	padding:1.5erm;
+	background-color: #f0f8ff;
+}
+
+#underline{
+text-decoration:underline;
+font-size: 18px;
+}
+.circle {
+	float: right;
+	padding-bottom: 1.5rem;
+	padding: 1rem;
+	background-color: #f0f8ff;
+}
+
+.control {
+	width: 100px;
+	height: 200px;
+}
+
+.adventure {
+		max-width: 100%;
+		height: auto;
+		border-radius: 15%;
+		padding: 2rem;
+		padding-top: 3rem;
+		padding-bottom: 0.5rem;
+		background-color: #f0f8ff;
+}
+
+.budget {
+	float: left;
+	padding-bottom: 1.5rem;
+	padding: 2rem;
+	background-color: #f0f8ff;
+}
+
+.carousel {
+
+}
